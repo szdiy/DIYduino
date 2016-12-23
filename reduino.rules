@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 4292)
+    (start_pass_no 4082)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -65,10 +65,10 @@
   (class "kicad_default"
     GND /Vin /A0 /A1 /A2 /A3 /AREF "Net-(P5-Pad1)"
     "Net-(P6-Pad1)" "Net-(P7-Pad1)" "Net-(P8-Pad1)" "Net-(P1-Pad1)" "Net-(C1-Pad1)" "Net-(C2-Pad1)" +5C "Net-(CONN1-Pad2)"
-    "Net-(CONN1-Pad3)" /MISO /SCK /MOSI /RESET "Net-(D1-Pad2)" "Net-(D2-Pad2)" "Net-(D3-Pad2)"
-    "Net-(D4-Pad2)" "Net-(P1-Pad4)" /A4 /A5 /IO13 /IO12 /IO11 /IO10
-    /IO9 /IO8 /D7 /D6 /D5 /D4 /D3 /D2
-    /D1 /D0 /D+ "/D-" "/RX_LED" "/TX_LED" /HWB
+    "Net-(CONN1-Pad3)" /MISO /SCK /MOSI /RESET "Net-(D3-Pad2)" "Net-(D4-Pad2)" /A4
+    /A5 /IO13 /IO12 /IO11 /IO10 /IO9 /IO8 /D7
+    /D6 /D5 /D4 /D3 /D2 /D1 /D0 /D+
+    "/D-" "/RX_LED" "/TX_LED" /HWB +3V3 "Net-(D1-Pad1)" "Net-(D2-Pad1)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
