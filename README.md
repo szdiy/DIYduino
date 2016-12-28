@@ -20,5 +20,5 @@ LICENSE
 ------------
 This project is released under the GPLv3 license.
 
-[schem]:https://github.com/danfei/DIYduino/DIYduino.pdf
-[bom]:https://github.com/danfei/DIYduino/DIYduino.csv
+[schem]:https://github.com/danfei/DIYduino/raw/master/DIYduino.pdf
+[bom]:https://github.com/danfei/DIYduino/raw/master/DIYduino.csv
