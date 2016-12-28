@@ -2,6 +2,14 @@
 #DIYduino
 DIYduino is an Arduino compatible board.
 
+Schematic
+------------
+[PDF][schem]
+
+Bill Of Materials
+------------
+[CSV][bom]
+
 Screenshots
 ------------
 
@@ -11,3 +19,6 @@ Screenshots
 LICENSE
 ------------
 This project is released under the GPLv3 license.
+
+[schem]:https://github.com/danfei/DIYduino/DIYduino.pdf
+[bom]:https://github.com/danfei/DIYduino/DIYduino.csv
