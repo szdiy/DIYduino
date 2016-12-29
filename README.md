@@ -22,7 +22,8 @@ ChangeLog
 
 License
 ------------
-This project is released under the GPLv3 license.
+This project is released under the CC BY-SA license.
+![](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 [schem]:https://github.com/danfei/DIYduino/raw/master/DIYduino.pdf
 [bom]:https://github.com/danfei/DIYduino/raw/master/DIYduino.csv
