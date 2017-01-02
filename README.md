@@ -1,6 +1,7 @@
 ![](https://github.com/danfei/DIYduino/raw/master/Screenshots/logo.png)
 #DIYduino
 DIYduino is an Arduino compatible board.
+The circuit uses DIP device, designed for beginners to learn to weld.
 
 Schematic
 ------------
