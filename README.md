@@ -1,4 +1,4 @@
-![](https://github.com/danfei/DIYduino/raw/master/Screenshots/logo.png)
+![](https://github.com/danfei/DIYduino/raw/master/images/logo.png)
 #DIYduino
 DIYduino is an Arduino compatible board.
 The circuit uses DIP device, designed for beginners to learn to weld.
@@ -14,12 +14,12 @@ Bill Of Materials
 Screenshots
 ------------
 
-![](https://github.com/danfei/DIYduino/raw/master/Screenshots/Screenshot - Sunday, December 25, 2016 - 08:10:35 HKT.png)
-![](https://github.com/danfei/DIYduino/raw/master/Screenshots/Screenshot - Sunday, December 25, 2016 - 08:10:16 HKT.png)
+![](https://github.com/danfei/DIYduino/raw/master/images/Screenshot - Sunday, December 25, 2016 - 08:10:35 HKT.png)
+![](https://github.com/danfei/DIYduino/raw/master/images/Screenshot - Sunday, December 25, 2016 - 08:10:16 HKT.png)
 
 Completed circuit
 ------------
-![](https://github.com/danfei/DIYduino/raw/master/Screenshots/IMG_20170103_165229.jpg)
+![](https://github.com/danfei/DIYduino/raw/master/images/IMG_20170103_165229.jpg)
 
 ChangeLog
 ------------
