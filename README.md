@@ -17,6 +17,10 @@ Screenshots
 ![](https://github.com/danfei/DIYduino/raw/master/Screenshots/Screenshot - Sunday, December 25, 2016 - 08:10:35 HKT.png)
 ![](https://github.com/danfei/DIYduino/raw/master/Screenshots/Screenshot - Sunday, December 25, 2016 - 08:10:16 HKT.png)
 
+Completed circuit
+------------
+![](https://github.com/danfei/DIYduino/raw/master/Screenshots/IMG_20170103_165229.jpg)
+
 ChangeLog
 ------------
 [Link][changelog]
