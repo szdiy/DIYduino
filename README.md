@@ -14,8 +14,8 @@ Bill Of Materials
 Screenshots
 ------------
 
-![](https://github.com/danfei/DIYduino/raw/master/images/Screenshot - Sunday, December 25, 2016 - 08:10:35 HKT.png)
-![](https://github.com/danfei/DIYduino/raw/master/images/Screenshot - Sunday, December 25, 2016 - 08:10:16 HKT.png)
+![](https://github.com/danfei/DIYduino/raw/master/images/v1f.png)
+![](https://github.com/danfei/DIYduino/raw/master/images/v1b.png)
 
 Completed circuit
 ------------
