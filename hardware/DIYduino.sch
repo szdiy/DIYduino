@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:DIYduino-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,7 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:LCD7th
-LIBS:reduino-cache
+LIBS:DIYduino-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -182,7 +183,7 @@ NoConn ~ 11100 800
 Text Notes 8550 750  0    60   ~ 0
 Shield for Arduino that uses\nthe same pin disposition\nlike "Uno" board Rev 3.
 $Comp
-L ATmega32U4-AU U1
+L ATmega32U4-AU-RESCUE-DIYduino U1
 U 1 1 572024B2
 P 3800 2850
 F 0 "U1" H 2900 4550 50  0000 C CNN
@@ -596,10 +597,10 @@ RX_LED
 Text Label 5000 3000 0    60   ~ 0
 TX_LED
 $Comp
-L R_Small R7
+L R_Small R6
 U 1 1 57205DB6
 P 6950 4600
-F 0 "R7" H 6980 4620 50  0000 L CNN
+F 0 "R6" H 6980 4620 50  0000 L CNN
 F 1 "1K" H 6980 4560 50  0000 L CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" H 6950 4600 50  0001 C CNN
 F 3 "" H 6950 4600 50  0000 C CNN
@@ -607,10 +608,10 @@ F 3 "" H 6950 4600 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R_Small R6
+L R_Small R7
 U 1 1 57205E2D
 P 6950 4800
-F 0 "R6" H 6980 4820 50  0000 L CNN
+F 0 "R7" H 6980 4820 50  0000 L CNN
 F 1 "1K" H 6980 4760 50  0000 L CNN
 F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" H 6950 4800 50  0001 C CNN
 F 3 "" H 6950 4800 50  0000 C CNN
@@ -739,7 +740,7 @@ Wire Wire Line
 Wire Wire Line
 	7550 4800 7400 4800
 $Comp
-L USB_B CONN1
+L USB_B-RESCUE-DIYduino CONN1
 U 1 1 57207054
 P 1200 5250
 F 0 "CONN1" H 1400 5050 50  0000 C CNN
