@@ -25,7 +25,7 @@
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
-    (37 F.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user)
@@ -1660,7 +1660,7 @@
   )
 
   (module DIYduino:szdiy_logo (layer B.Cu) (tedit 0) (tstamp 593CD1F6)
-    (at 134.998 86.365 180)
+    (at 162.998 104.365 180)
     (fp_text reference G*** (at 0 0 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3)) (justify mirror))
     )
@@ -2027,7 +2027,7 @@
   (gr_text https://github.com/szdiy/DIYduino (at 157.3784 119.6594) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "v0.2\n" (at 177.038 115.316) (layer F.SilkS)
+  (gr_text "v1.0\n" (at 177.038 115.316) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text NC (at 156.798 121.165 90) (layer F.SilkS)

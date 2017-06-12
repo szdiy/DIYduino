@@ -29,7 +29,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:LCD7th
 LIBS:DIYduino-cache
 EELAYER 25 0
 EELAYER END
@@ -286,8 +285,6 @@ Wire Notes Line
 Wire Notes Line
 	9925 825  9925 475 
 Wire Wire Line
-	2450 1200 2450 2300
-Wire Wire Line
 	2450 1800 2550 1800
 Wire Wire Line
 	2550 1600 2450 1600
@@ -342,8 +339,6 @@ Wire Wire Line
 	2300 2400 2300 2300
 Wire Wire Line
 	2300 2300 2550 2300
-Connection ~ 2450 2300
-Connection ~ 2450 1800
 Wire Wire Line
 	2550 2400 2450 2400
 Wire Wire Line
@@ -1194,4 +1189,6 @@ F 3 "" H 9175 1475 50  0000 C CNN
 	1    9175 1475
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2450 1800 2450 1200
 $EndSCHEMATC
